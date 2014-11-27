@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: ZM
+Build-Jdk: 1.7.0_45
+Specification-Title: framework-meter-src
+Specification-Version: 1.0-SNAPSHOT
+Specification-Vendor: framework-meter
+Implementation-Title: framework-meter-src
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.meter
+Implementation-Vendor: framework-meter-src
+
