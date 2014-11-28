@@ -53,5 +53,6 @@
     <!-- JBoss 配置 --><!--
     <constant name="struts.convention.exclude.parentClassLoader" value="true" />
     -->
+    <!-- 测试分支提交 -->
     <include file="struts/struts-framework.xml"></include>
 </struts>
